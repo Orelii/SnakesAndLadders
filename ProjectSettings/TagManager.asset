@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Board
+  - Red
+  - Yellow
+  - Green
+  - Blue
+  - Purple
+  - White
+  - Info
+  - Die
+  - DiceButton
+  - LadderSnake
+  - NumInfo
+  - Go
+  - WinnerImage
+  - WinStuff
+  - PlayAgain
+  - MainMenu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Green
+  - Purple
+  - Red
+  - Yellow
+  - Blue
+  - White
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Board
+    uniqueID: 840492107
+    locked: 0
+  - name: SnakeLadder
+    uniqueID: 3779325367
+    locked: 0
+  - name: Meeple
+    uniqueID: 763218197
+    locked: 0
+  - name: UI
+    uniqueID: 2847174365
+    locked: 0
+  - name: Dice Result
+    uniqueID: 1517688979
+    locked: 0

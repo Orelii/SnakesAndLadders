@@ -1,0 +1,3000 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2022-07-06T01:22:13.451-06:00
+  initializedAtString: 2022-07-06T01:12:41.749-06:00
+  log:
+  - commitID: 010ce0b561a84756fec9373cb35ea1446e55d52d
+    mergeA: 
+    mergeB: 
+    authorName: Orelii
+    authorEmail: 83521686+Orelii@users.noreply.github.com
+    commitEmail: 83521686+Orelii@users.noreply.github.com
+    commitName: Orelii
+    summary: got rid of the test build
+    description: 
+    timeString: 2022-05-12T19:22:19.000-06:00
+    commitTimeString: 2022-05-12T19:22:19.000-06:00
+    changes:
+    - path: Test\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+      projectPath: Test\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+      projectPath: Test\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+      projectPath: Test\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+      projectPath: Test\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\2.0\machine.config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\2.0\machine.config
+      projectPath: Test\MonoBleedingEdge\etc\mono\2.0\machine.config
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\2.0\settings.map
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\2.0\settings.map
+      projectPath: Test\MonoBleedingEdge\etc\mono\2.0\settings.map
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\2.0\web.config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\2.0\web.config
+      projectPath: Test\MonoBleedingEdge\etc\mono\2.0\web.config
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.0\machine.config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.0\machine.config
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.0\machine.config
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.0\settings.map
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.0\settings.map
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.0\settings.map
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.0\web.config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.0\web.config
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.0\web.config
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.5\machine.config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.5\machine.config
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.5\machine.config
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.5\settings.map
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.5\settings.map
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.5\settings.map
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.5\web.config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.5\web.config
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.5\web.config
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\browscap.ini
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\browscap.ini
+      projectPath: Test\MonoBleedingEdge\etc\mono\browscap.ini
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\config
+      projectPath: Test\MonoBleedingEdge\etc\mono\config
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\mconfig\config.xml
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\mconfig\config.xml
+      projectPath: Test\MonoBleedingEdge\etc\mono\mconfig\config.xml
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders.exe
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders.exe
+      projectPath: Test\SnakesAndLadders.exe
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Assembly-CSharp.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Assembly-CSharp.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Mono.Security.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Mono.Security.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Mono.Security.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.ComponentModel.Composition.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.ComponentModel.Composition.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.ComponentModel.Composition.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Configuration.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Configuration.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Configuration.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Core.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Core.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Core.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Data.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Data.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Data.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Diagnostics.StackTrace.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Diagnostics.StackTrace.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Diagnostics.StackTrace.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Drawing.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Drawing.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Drawing.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.EnterpriseServices.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.EnterpriseServices.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.EnterpriseServices.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Globalization.Extensions.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Globalization.Extensions.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Globalization.Extensions.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.IO.Compression.FileSystem.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.IO.Compression.FileSystem.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.IO.Compression.FileSystem.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.IO.Compression.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.IO.Compression.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.IO.Compression.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Net.Http.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Net.Http.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Net.Http.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Numerics.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Numerics.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Numerics.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Runtime.Serialization.Xml.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Runtime.Serialization.Xml.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Runtime.Serialization.Xml.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Runtime.Serialization.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Runtime.Serialization.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Runtime.Serialization.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.ServiceModel.Internals.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.ServiceModel.Internals.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.ServiceModel.Internals.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Transactions.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Transactions.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Transactions.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Xml.Linq.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Xml.Linq.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Xml.Linq.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Xml.XPath.XDocument.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Xml.XPath.XDocument.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Xml.XPath.XDocument.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Xml.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Xml.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Xml.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.2D.Animation.Runtime.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.2D.Animation.Runtime.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.2D.Animation.Runtime.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.2D.Common.Runtime.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.2D.Common.Runtime.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.2D.Common.Runtime.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.2D.IK.Runtime.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.2D.IK.Runtime.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.2D.IK.Runtime.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.2D.PixelPerfect.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.2D.PixelPerfect.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.2D.PixelPerfect.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.Mathematics.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.Mathematics.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.Mathematics.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.TextMeshPro.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.TextMeshPro.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.Timeline.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.Timeline.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.AIModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.AIModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.AIModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ARModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ARModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ARModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.AccessibilityModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.AccessibilityModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.AccessibilityModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.AndroidJNIModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.AndroidJNIModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.AndroidJNIModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.AnimationModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.AnimationModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.AnimationModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.AssetBundleModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.AssetBundleModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.AssetBundleModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.AudioModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.AudioModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.AudioModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ClothModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ClothModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ClothModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ClusterInputModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ClusterInputModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ClusterInputModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.CoreModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.CoreModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.CoreModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.CrashReportingModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.CrashReportingModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.CrashReportingModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.DSPGraphModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.DSPGraphModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.DSPGraphModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.DirectorModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.DirectorModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.DirectorModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.GIModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.GIModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.GIModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.GameCenterModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.GameCenterModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.GameCenterModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.GridModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.GridModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.GridModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.HotReloadModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.HotReloadModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.HotReloadModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.IMGUIModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.IMGUIModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.IMGUIModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ImageConversionModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ImageConversionModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ImageConversionModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.InputLegacyModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.InputLegacyModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.InputLegacyModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.InputModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.InputModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.InputModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.LocalizationModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.LocalizationModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.LocalizationModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.Physics2DModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.Physics2DModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.Physics2DModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.PhysicsModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.PhysicsModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.PhysicsModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ProfilerModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ProfilerModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ProfilerModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.StreamingModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.StreamingModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.StreamingModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.SubstanceModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.SubstanceModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.SubstanceModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.SubsystemsModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.SubsystemsModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.SubsystemsModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.TLSModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.TLSModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.TLSModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.TerrainModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.TerrainModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.TerrainModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.TextCoreModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.TextCoreModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.TextCoreModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.TextRenderingModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.TextRenderingModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.TextRenderingModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.TilemapModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.TilemapModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.TilemapModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UI.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UI.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UIElementsModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UIElementsModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UIElementsModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UIModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UIModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UIModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UNETModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UNETModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UNETModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UmbraModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UmbraModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UmbraModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityConnectModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityConnectModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityConnectModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityCurlModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityCurlModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityCurlModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.VFXModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.VFXModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.VFXModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.VRModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.VRModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.VRModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.VehiclesModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.VehiclesModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.VehiclesModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.VideoModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.VideoModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.VideoModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.VirtualTexturingModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.VirtualTexturingModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.VirtualTexturingModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.WindModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.WindModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.WindModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.XRModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.XRModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.XRModule.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\mscorlib.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\mscorlib.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\mscorlib.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\netstandard.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\netstandard.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\netstandard.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Resources\unity default resources
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Resources\unity
+        default resources
+      projectPath: Test\SnakesAndLadders_Data\Resources\unity default resources
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Resources\unity_builtin_extra
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Resources\unity_builtin_extra
+      projectPath: Test\SnakesAndLadders_Data\Resources\unity_builtin_extra
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\RuntimeInitializeOnLoads.json
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\RuntimeInitializeOnLoads.json
+      projectPath: Test\SnakesAndLadders_Data\RuntimeInitializeOnLoads.json
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\ScriptingAssemblies.json
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\ScriptingAssemblies.json
+      projectPath: Test\SnakesAndLadders_Data\ScriptingAssemblies.json
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\app.info
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\app.info
+      projectPath: Test\SnakesAndLadders_Data\app.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\boot.config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\boot.config
+      projectPath: Test\SnakesAndLadders_Data\boot.config
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\globalgamemanagers
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\globalgamemanagers
+      projectPath: Test\SnakesAndLadders_Data\globalgamemanagers
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\globalgamemanagers.assets
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\globalgamemanagers.assets
+      projectPath: Test\SnakesAndLadders_Data\globalgamemanagers.assets
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\level0
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\level0
+      projectPath: Test\SnakesAndLadders_Data\level0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\level1
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\level1
+      projectPath: Test\SnakesAndLadders_Data\level1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\sharedassets0.assets
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\sharedassets0.assets
+      projectPath: Test\SnakesAndLadders_Data\sharedassets0.assets
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\sharedassets0.assets.resS
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\sharedassets0.assets.resS
+      projectPath: Test\SnakesAndLadders_Data\sharedassets0.assets.resS
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\sharedassets1.assets
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\sharedassets1.assets
+      projectPath: Test\SnakesAndLadders_Data\sharedassets1.assets
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\UnityCrashHandler32.exe
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\UnityCrashHandler32.exe
+      projectPath: Test\UnityCrashHandler32.exe
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Test\UnityPlayer.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\UnityPlayer.dll
+      projectPath: Test\UnityPlayer.dll
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 9745b65ace0a8f31ee7aa575eb32eec85bbb6ac8
+    mergeA: 
+    mergeB: 
+    authorName: Orelii
+    authorEmail: 83521686+Orelii@users.noreply.github.com
+    commitEmail: 83521686+Orelii@users.noreply.github.com
+    commitName: Orelii
+    summary: end of game buttons work now and made a few changes so that update events
+      aren't broken outside the editor
+    description: 
+    timeString: 2022-05-12T19:16:04.000-06:00
+    commitTimeString: 2022-05-12T19:16:04.000-06:00
+    changes:
+    - path: Assets\Scenes\MainMenu.unity
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scenes\MainMenu.unity
+      projectPath: Assets\Scenes\MainMenu.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\RegularBoard.unity
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scenes\RegularBoard.unity
+      projectPath: Assets\Scenes\RegularBoard.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Dice.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\Dice.cs
+      projectPath: Assets\Scripts\Dice.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameState.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\GameState.cs
+      projectPath: Assets\Scripts\GameState.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\MainMenu.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\MainMenu.cs
+      projectPath: Assets\Scripts\MainMenu.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneControls.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\SceneControls.cs
+      projectPath: Assets\Scripts\SceneControls.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneControls.cs.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\SceneControls.cs.meta
+      projectPath: Assets\Scripts\SceneControls.cs.meta
+      originalPath: Assets\Scripts\MainMenu.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+      projectPath: Test\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+      projectPath: Test\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+      projectPath: Test\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+      projectPath: Test\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\2.0\machine.config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\2.0\machine.config
+      projectPath: Test\MonoBleedingEdge\etc\mono\2.0\machine.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\2.0\settings.map
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\2.0\settings.map
+      projectPath: Test\MonoBleedingEdge\etc\mono\2.0\settings.map
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\2.0\web.config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\2.0\web.config
+      projectPath: Test\MonoBleedingEdge\etc\mono\2.0\web.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.0\machine.config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.0\machine.config
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.0\machine.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.0\settings.map
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.0\settings.map
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.0\settings.map
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.0\web.config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.0\web.config
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.0\web.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.5\machine.config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.5\machine.config
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.5\machine.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.5\settings.map
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.5\settings.map
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.5\settings.map
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\4.5\web.config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\4.5\web.config
+      projectPath: Test\MonoBleedingEdge\etc\mono\4.5\web.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\browscap.ini
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\browscap.ini
+      projectPath: Test\MonoBleedingEdge\etc\mono\browscap.ini
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\config
+      projectPath: Test\MonoBleedingEdge\etc\mono\config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\MonoBleedingEdge\etc\mono\mconfig\config.xml
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\MonoBleedingEdge\etc\mono\mconfig\config.xml
+      projectPath: Test\MonoBleedingEdge\etc\mono\mconfig\config.xml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders.exe
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders.exe
+      projectPath: Test\SnakesAndLadders.exe
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Assembly-CSharp.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Assembly-CSharp.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Mono.Security.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Mono.Security.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Mono.Security.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.ComponentModel.Composition.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.ComponentModel.Composition.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.ComponentModel.Composition.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Configuration.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Configuration.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Configuration.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Core.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Core.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Core.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Data.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Data.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Data.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Diagnostics.StackTrace.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Diagnostics.StackTrace.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Diagnostics.StackTrace.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Drawing.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Drawing.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Drawing.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.EnterpriseServices.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.EnterpriseServices.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.EnterpriseServices.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Globalization.Extensions.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Globalization.Extensions.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Globalization.Extensions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.IO.Compression.FileSystem.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.IO.Compression.FileSystem.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.IO.Compression.FileSystem.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.IO.Compression.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.IO.Compression.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.IO.Compression.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Net.Http.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Net.Http.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Net.Http.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Numerics.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Numerics.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Numerics.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Runtime.Serialization.Xml.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Runtime.Serialization.Xml.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Runtime.Serialization.Xml.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Runtime.Serialization.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Runtime.Serialization.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Runtime.Serialization.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.ServiceModel.Internals.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.ServiceModel.Internals.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.ServiceModel.Internals.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Transactions.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Transactions.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Transactions.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Xml.Linq.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Xml.Linq.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Xml.Linq.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Xml.XPath.XDocument.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Xml.XPath.XDocument.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Xml.XPath.XDocument.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.Xml.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.Xml.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.Xml.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\System.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\System.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\System.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.2D.Animation.Runtime.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.2D.Animation.Runtime.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.2D.Animation.Runtime.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.2D.Common.Runtime.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.2D.Common.Runtime.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.2D.Common.Runtime.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.2D.IK.Runtime.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.2D.IK.Runtime.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.2D.IK.Runtime.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.2D.PixelPerfect.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.2D.PixelPerfect.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.2D.PixelPerfect.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.Mathematics.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.Mathematics.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.Mathematics.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.TextMeshPro.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.TextMeshPro.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\Unity.Timeline.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\Unity.Timeline.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.AIModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.AIModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.AIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ARModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ARModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ARModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.AccessibilityModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.AccessibilityModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.AccessibilityModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.AndroidJNIModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.AndroidJNIModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.AndroidJNIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.AnimationModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.AnimationModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.AnimationModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.AssetBundleModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.AssetBundleModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.AssetBundleModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.AudioModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.AudioModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.AudioModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ClothModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ClothModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ClothModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ClusterInputModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ClusterInputModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ClusterInputModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ClusterRendererModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.CoreModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.CoreModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.CoreModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.CrashReportingModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.CrashReportingModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.CrashReportingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.DSPGraphModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.DSPGraphModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.DSPGraphModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.DirectorModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.DirectorModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.DirectorModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.GIModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.GIModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.GIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.GameCenterModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.GameCenterModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.GameCenterModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.GridModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.GridModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.GridModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.HotReloadModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.HotReloadModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.HotReloadModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.IMGUIModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.IMGUIModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.IMGUIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ImageConversionModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ImageConversionModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ImageConversionModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.InputLegacyModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.InputLegacyModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.InputLegacyModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.InputModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.InputModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.InputModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.JSONSerializeModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.LocalizationModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.LocalizationModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.LocalizationModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ParticleSystemModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.Physics2DModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.Physics2DModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.Physics2DModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.PhysicsModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.PhysicsModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.PhysicsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ProfilerModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ProfilerModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ProfilerModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.SharedInternalsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.SpriteMaskModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.SpriteShapeModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.StreamingModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.StreamingModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.StreamingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.SubstanceModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.SubstanceModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.SubstanceModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.SubsystemsModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.SubsystemsModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.SubsystemsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.TLSModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.TLSModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.TLSModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.TerrainModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.TerrainModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.TerrainModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.TextCoreModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.TextCoreModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.TextCoreModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.TextRenderingModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.TextRenderingModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.TextRenderingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.TilemapModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.TilemapModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.TilemapModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UI.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UI.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UIElementsModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UIElementsModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UIElementsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UIElementsNativeModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UIModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UIModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UIModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UNETModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UNETModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UNETModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UmbraModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UmbraModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UmbraModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityConnectModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityConnectModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityConnectModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityCurlModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityCurlModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityCurlModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.VFXModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.VFXModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.VFXModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.VRModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.VRModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.VRModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.VehiclesModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.VehiclesModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.VehiclesModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.VideoModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.VideoModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.VideoModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.VirtualTexturingModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.VirtualTexturingModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.VirtualTexturingModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.WindModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.WindModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.WindModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.XRModule.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.XRModule.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.XRModule.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\UnityEngine.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\UnityEngine.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\UnityEngine.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\mscorlib.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\mscorlib.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\mscorlib.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Managed\netstandard.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Managed\netstandard.dll
+      projectPath: Test\SnakesAndLadders_Data\Managed\netstandard.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Resources\unity default resources
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Resources\unity
+        default resources
+      projectPath: Test\SnakesAndLadders_Data\Resources\unity default resources
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\Resources\unity_builtin_extra
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\Resources\unity_builtin_extra
+      projectPath: Test\SnakesAndLadders_Data\Resources\unity_builtin_extra
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\RuntimeInitializeOnLoads.json
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\RuntimeInitializeOnLoads.json
+      projectPath: Test\SnakesAndLadders_Data\RuntimeInitializeOnLoads.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\ScriptingAssemblies.json
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\ScriptingAssemblies.json
+      projectPath: Test\SnakesAndLadders_Data\ScriptingAssemblies.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\app.info
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\app.info
+      projectPath: Test\SnakesAndLadders_Data\app.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\boot.config
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\boot.config
+      projectPath: Test\SnakesAndLadders_Data\boot.config
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\globalgamemanagers
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\globalgamemanagers
+      projectPath: Test\SnakesAndLadders_Data\globalgamemanagers
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\globalgamemanagers.assets
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\globalgamemanagers.assets
+      projectPath: Test\SnakesAndLadders_Data\globalgamemanagers.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\level0
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\level0
+      projectPath: Test\SnakesAndLadders_Data\level0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\level1
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\level1
+      projectPath: Test\SnakesAndLadders_Data\level1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\sharedassets0.assets
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\sharedassets0.assets
+      projectPath: Test\SnakesAndLadders_Data\sharedassets0.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\sharedassets0.assets.resS
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\sharedassets0.assets.resS
+      projectPath: Test\SnakesAndLadders_Data\sharedassets0.assets.resS
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\SnakesAndLadders_Data\sharedassets1.assets
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\SnakesAndLadders_Data\sharedassets1.assets
+      projectPath: Test\SnakesAndLadders_Data\sharedassets1.assets
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\UnityCrashHandler32.exe
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\UnityCrashHandler32.exe
+      projectPath: Test\UnityCrashHandler32.exe
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Test\UnityPlayer.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Test\UnityPlayer.dll
+      projectPath: Test\UnityPlayer.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 97a6ba6636fbc2a38534b22df5b8adb0a88ea99c
+    mergeA: 
+    mergeB: 
+    authorName: Orelii
+    authorEmail: 83521686+Orelii@users.noreply.github.com
+    commitEmail: 83521686+Orelii@users.noreply.github.com
+    commitName: Orelii
+    summary: started working on a main menu
+    description: 
+    timeString: 2022-05-11T22:18:38.000-06:00
+    commitTimeString: 2022-05-11T22:18:38.000-06:00
+    changes:
+    - path: Assets\Scenes\MainMenu.unity
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scenes\MainMenu.unity
+      projectPath: Assets\Scenes\MainMenu.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\MainMenu.unity.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scenes\MainMenu.unity.meta
+      projectPath: Assets\Scenes\MainMenu.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\RegularBoard.unity
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scenes\RegularBoard.unity
+      projectPath: Assets\Scenes\RegularBoard.unity
+      originalPath: Assets\Scenes\Play.unity
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scenes\RegularBoard.unity.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scenes\RegularBoard.unity.meta
+      projectPath: Assets\Scenes\RegularBoard.unity.meta
+      originalPath: Assets\Scenes\Play.unity.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameState.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\GameState.cs
+      projectPath: Assets\Scripts\GameState.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\MainMenu.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\MainMenu.cs
+      projectPath: Assets\Scripts\MainMenu.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MainMenu.cs.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\MainMenu.cs.meta
+      projectPath: Assets\Scripts\MainMenu.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 86060234e4bc0854d64f4f698166cc714e5d183e
+    mergeA: 
+    mergeB: 
+    authorName: Orelii
+    authorEmail: 83521686+Orelii@users.noreply.github.com
+    commitEmail: 83521686+Orelii@users.noreply.github.com
+    commitName: Orelii
+    summary: the game can actually be won now
+    description: 
+    timeString: 2022-05-09T19:21:02.000-06:00
+    commitTimeString: 2022-05-09T19:21:02.000-06:00
+    changes:
+    - path: Assets\Scenes\Play.unity
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scenes\Play.unity
+      projectPath: Assets\Scenes\Play.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameState.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\GameState.cs
+      projectPath: Assets\Scripts\GameState.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Meeple.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\Meeple.cs
+      projectPath: Assets\Scripts\Meeple.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 6aa93491d413a2d4004b462c5e0b4bda45eaf464
+    mergeA: 
+    mergeB: 
+    authorName: Orelii
+    authorEmail: 83521686+Orelii@users.noreply.github.com
+    commitEmail: 83521686+Orelii@users.noreply.github.com
+    commitName: Orelii
+    summary: literally nothing changed i just need to be able to use unity without
+      github freezing it
+    description: 
+    timeString: 2022-05-09T17:18:01.000-06:00
+    commitTimeString: 2022-05-09T17:18:01.000-06:00
+    changes:
+    - path: Assets\Scripts\GameState.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\GameState.cs
+      projectPath: Assets\Scripts\GameState.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: b261cb2f4aa9c94716a69115e3f178aa17954aec
+    mergeA: 
+    mergeB: 
+    authorName: Orelii
+    authorEmail: 83521686+Orelii@users.noreply.github.com
+    commitEmail: 83521686+Orelii@users.noreply.github.com
+    commitName: Orelii
+    summary: fixed rolling past 100
+    description: 
+    timeString: 2022-05-05T22:07:52.000-06:00
+    commitTimeString: 2022-05-05T22:07:52.000-06:00
+    changes:
+    - path: Assets\Scripts\GameState.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\GameState.cs
+      projectPath: Assets\Scripts\GameState.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Meeple.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\Meeple.cs
+      projectPath: Assets\Scripts\Meeple.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: bb53a2f9e93867f0665bb601a3fc90b7004b1b9b
+    mergeA: 
+    mergeB: 
+    authorName: Orelii
+    authorEmail: 83521686+Orelii@users.noreply.github.com
+    commitEmail: 83521686+Orelii@users.noreply.github.com
+    commitName: Orelii
+    summary: boardspaces now display their space number
+    description: 
+    timeString: 2022-05-04T16:50:43.000-06:00
+    commitTimeString: 2022-05-04T16:50:43.000-06:00
+    changes:
+    - path: Assets\Scenes\Play.unity
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scenes\Play.unity
+      projectPath: Assets\Scenes\Play.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\BoardSpace.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\BoardSpace.cs
+      projectPath: Assets\Scripts\BoardSpace.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameState.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\GameState.cs
+      projectPath: Assets\Scripts\GameState.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Meeple.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\Meeple.cs
+      projectPath: Assets\Scripts\Meeple.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 73a5c29cf536cf5eaf40b1881a6124496d4db11c
+    mergeA: 
+    mergeB: 
+    authorName: Orelii
+    authorEmail: 83521686+Orelii@users.noreply.github.com
+    commitEmail: 83521686+Orelii@users.noreply.github.com
+    commitName: Orelii
+    summary: practically zero change but i need to commit this if i want the thing
+      to run at all
+    description: 
+    timeString: 2022-05-02T17:37:29.000-06:00
+    commitTimeString: 2022-05-02T17:37:29.000-06:00
+    changes:
+    - path: Assets\Scenes\Play.unity
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scenes\Play.unity
+      projectPath: Assets\Scenes\Play.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\BoardSpace.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\BoardSpace.cs
+      projectPath: Assets\Scripts\BoardSpace.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 7b3b973fbcc27f91fe40867d7ed75d44b772ddb6
+    mergeA: 
+    mergeB: 
+    authorName: Orelii
+    authorEmail: 83521686+Orelii@users.noreply.github.com
+    commitEmail: 83521686+Orelii@users.noreply.github.com
+    commitName: Orelii
+    summary: if i don't commit every tiny little thing github for unity won't let
+      me test so this will be "interesting"
+    description: 
+    timeString: 2022-05-01T17:14:58.000-06:00
+    commitTimeString: 2022-05-01T17:14:58.000-06:00
+    changes:
+    - path: Assets\Scenes\Play.unity
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scenes\Play.unity
+      projectPath: Assets\Scenes\Play.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\BoardSpace.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\BoardSpace.cs
+      projectPath: Assets\Scripts\BoardSpace.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameState.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\GameState.cs
+      projectPath: Assets\Scripts\GameState.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\SnakeLadder.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\SnakeLadder.cs
+      projectPath: Assets\Scripts\SnakeLadder.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: bec562cdc976f4a972284a86b89ec6f0b80bfac5
+    mergeA: 
+    mergeB: 
+    authorName: Orelii
+    authorEmail: 83521686+Orelii@users.noreply.github.com
+    commitEmail: 83521686+Orelii@users.noreply.github.com
+    commitName: Orelii
+    summary: this is being weird and annoying
+    description: 
+    timeString: 2022-04-29T23:44:25.000-06:00
+    commitTimeString: 2022-04-29T23:44:25.000-06:00
+    changes:
+    - path: .vsconfig
+      fullPath: C:\Users\Oreli\SnakesAndLadders\.vsconfig
+      projectPath: .vsconfig
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Fonts.meta
+      projectPath: Assets\Fonts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\coolvetica rg.otf
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Fonts\coolvetica rg.otf
+      projectPath: Assets\Fonts\coolvetica rg.otf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Fonts\coolvetica rg.otf.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Fonts\coolvetica rg.otf.meta
+      projectPath: Assets\Fonts\coolvetica rg.otf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\dice.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Materials\dice.png
+      projectPath: Assets\Materials\dice.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\dice.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Materials\dice.png.meta
+      projectPath: Assets\Materials\dice.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\dice_bp.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Materials\dice_bp.png
+      projectPath: Assets\Materials\dice_bp.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\dice_bp.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Materials\dice_bp.png.meta
+      projectPath: Assets\Materials\dice_bp.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\redstonecubemap.mat
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Materials\redstonecubemap.mat
+      projectPath: Assets\Materials\redstonecubemap.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\redstonecubemap.mat.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Materials\redstonecubemap.mat.meta
+      projectPath: Assets\Materials\redstonecubemap.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\BoardSpace.prefab
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Prefabs\BoardSpace.prefab
+      projectPath: Assets\Prefabs\BoardSpace.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\BoardSpace.prefab.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Prefabs\BoardSpace.prefab.meta
+      projectPath: Assets\Prefabs\BoardSpace.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Play.unity
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scenes\Play.unity
+      projectPath: Assets\Scenes\Play.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Play.unity.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scenes\Play.unity.meta
+      projectPath: Assets\Scenes\Play.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\BoardSpace.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\BoardSpace.cs
+      projectPath: Assets\Scripts\BoardSpace.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\BoardSpace.cs.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\BoardSpace.cs.meta
+      projectPath: Assets\Scripts\BoardSpace.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Dice.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\Dice.cs
+      projectPath: Assets\Scripts\Dice.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Dice.cs.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\Dice.cs.meta
+      projectPath: Assets\Scripts\Dice.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameState.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\GameState.cs
+      projectPath: Assets\Scripts\GameState.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\GameState.cs.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\GameState.cs.meta
+      projectPath: Assets\Scripts\GameState.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Meeple.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\Meeple.cs
+      projectPath: Assets\Scripts\Meeple.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Meeple.cs.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\Meeple.cs.meta
+      projectPath: Assets\Scripts\Meeple.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SnakeLadder.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\SnakeLadder.cs
+      projectPath: Assets\Scripts\SnakeLadder.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SnakeLadder.cs.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\SnakeLadder.cs.meta
+      projectPath: Assets\Scripts\SnakeLadder.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TextureMap.cs
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\TextureMap.cs
+      projectPath: Assets\Scripts\TextureMap.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\TextureMap.cs.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Scripts\TextureMap.cs.meta
+      projectPath: Assets\Scripts\TextureMap.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites.meta
+      projectPath: Assets\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Board.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Board.meta
+      projectPath: Assets\Sprites\Board.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Board\end 1.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Board\end 1.png
+      projectPath: Assets\Sprites\Board\end 1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Board\end 1.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Board\end 1.png.meta
+      projectPath: Assets\Sprites\Board\end 1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Board\end.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Board\end.png
+      projectPath: Assets\Sprites\Board\end.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Board\end.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Board\end.png.meta
+      projectPath: Assets\Sprites\Board\end.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Board\even.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Board\even.png
+      projectPath: Assets\Sprites\Board\even.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Board\even.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Board\even.png.meta
+      projectPath: Assets\Sprites\Board\even.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Board\ladder.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Board\ladder.png
+      projectPath: Assets\Sprites\Board\ladder.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Board\ladder.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Board\ladder.png.meta
+      projectPath: Assets\Sprites\Board\ladder.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Board\odd.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Board\odd.png
+      projectPath: Assets\Sprites\Board\odd.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Board\odd.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Board\odd.png.meta
+      projectPath: Assets\Sprites\Board\odd.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Board\snake.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Board\snake.png
+      projectPath: Assets\Sprites\Board\snake.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Board\snake.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Board\snake.png.meta
+      projectPath: Assets\Sprites\Board\snake.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Meeple.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Meeple.meta
+      projectPath: Assets\Sprites\Meeple.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Meeple\blue.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Meeple\blue.png
+      projectPath: Assets\Sprites\Meeple\blue.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Meeple\blue.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Meeple\blue.png.meta
+      projectPath: Assets\Sprites\Meeple\blue.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Meeple\green.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Meeple\green.png
+      projectPath: Assets\Sprites\Meeple\green.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Meeple\green.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Meeple\green.png.meta
+      projectPath: Assets\Sprites\Meeple\green.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Meeple\monopoly thimble.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Meeple\monopoly thimble.png
+      projectPath: Assets\Sprites\Meeple\monopoly thimble.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Meeple\monopoly thimble.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Meeple\monopoly thimble.png.meta
+      projectPath: Assets\Sprites\Meeple\monopoly thimble.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Meeple\purple.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Meeple\purple.png
+      projectPath: Assets\Sprites\Meeple\purple.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Meeple\purple.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Meeple\purple.png.meta
+      projectPath: Assets\Sprites\Meeple\purple.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Meeple\red.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Meeple\red.png
+      projectPath: Assets\Sprites\Meeple\red.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Meeple\red.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Meeple\red.png.meta
+      projectPath: Assets\Sprites\Meeple\red.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Meeple\white.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Meeple\white.png
+      projectPath: Assets\Sprites\Meeple\white.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Meeple\white.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Meeple\white.png.meta
+      projectPath: Assets\Sprites\Meeple\white.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Meeple\yellow.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Meeple\yellow.png
+      projectPath: Assets\Sprites\Meeple\yellow.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\Meeple\yellow.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\Meeple\yellow.png.meta
+      projectPath: Assets\Sprites\Meeple\yellow.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI.meta
+      projectPath: Assets\Sprites\UI.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\die.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\die.png
+      projectPath: Assets\Sprites\UI\die.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\die.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\die.png.meta
+      projectPath: Assets\Sprites\UI\die.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\five.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\five.png
+      projectPath: Assets\Sprites\UI\five.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\five.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\five.png.meta
+      projectPath: Assets\Sprites\UI\five.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\fiveplayers.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\fiveplayers.png
+      projectPath: Assets\Sprites\UI\fiveplayers.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\fiveplayers.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\fiveplayers.png.meta
+      projectPath: Assets\Sprites\UI\fiveplayers.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\four.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\four.png
+      projectPath: Assets\Sprites\UI\four.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\four.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\four.png.meta
+      projectPath: Assets\Sprites\UI\four.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\fourplayers.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\fourplayers.png
+      projectPath: Assets\Sprites\UI\fourplayers.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\fourplayers.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\fourplayers.png.meta
+      projectPath: Assets\Sprites\UI\fourplayers.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\one.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\one.png
+      projectPath: Assets\Sprites\UI\one.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\one.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\one.png.meta
+      projectPath: Assets\Sprites\UI\one.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\six.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\six.png
+      projectPath: Assets\Sprites\UI\six.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\six.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\six.png.meta
+      projectPath: Assets\Sprites\UI\six.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\sixplayers.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\sixplayers.png
+      projectPath: Assets\Sprites\UI\sixplayers.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\sixplayers.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\sixplayers.png.meta
+      projectPath: Assets\Sprites\UI\sixplayers.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\three.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\three.png
+      projectPath: Assets\Sprites\UI\three.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\three.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\three.png.meta
+      projectPath: Assets\Sprites\UI\three.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\threeplayers.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\threeplayers.png
+      projectPath: Assets\Sprites\UI\threeplayers.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\threeplayers.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\threeplayers.png.meta
+      projectPath: Assets\Sprites\UI\threeplayers.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\two.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\two.png
+      projectPath: Assets\Sprites\UI\two.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\two.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\two.png.meta
+      projectPath: Assets\Sprites\UI\two.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\twoplayers.png
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\twoplayers.png
+      projectPath: Assets\Sprites\UI\twoplayers.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sprites\UI\twoplayers.png.meta
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\Sprites\UI\twoplayers.png.meta
+      projectPath: Assets\Sprites\UI\twoplayers.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PackageManagerSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VersionControlSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\Oreli\SnakesAndLadders\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 77c361bc56939cde19ec994ea69f9280646c5e39
+    mergeA: 
+    mergeB: 
+    authorName: Oreli
+    authorEmail: oreli.throwaway@gmail.com
+    commitEmail: oreli.throwaway@gmail.com
+    commitName: Oreli
+    summary: Initial commit
+    description: 
+    timeString: 2022-04-25T10:51:00.000-06:00
+    commitTimeString: 2022-04-25T10:51:00.000-06:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Oreli\SnakesAndLadders\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\Oreli\SnakesAndLadders\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\Oreli\SnakesAndLadders\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
